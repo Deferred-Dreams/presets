@@ -1,2 +1,2 @@
-# presets
-all deferred dreams' presets data
+# Deferred Dreams : Presets
+We choose people for create presets ( .mcpack )
